@@ -3,5 +3,5 @@
 支持大小写中文数字  
 可能会有BUG 哈哈哈 
 
-## 测试代码参考
-[https://github.com/alvin198761/c2number/blob/master/src/org/alvin/c2number/C2Number_Test.java](https://github.com/alvin198761/c2number/blob/master/src/org/alvin/c2number/C2Number_Test.java)
+## 代码参考的
+[https://github.com/alvin198761/c2number](https://github.com/alvin198761/c2number)
